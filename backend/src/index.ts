@@ -1,4 +1,4 @@
-//bootstraps app..
+//bootstraps app
 
 import { WebSocketServer, WebSocket } from "ws";
 import type { RawData } from "ws";
